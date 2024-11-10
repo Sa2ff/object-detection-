@@ -1,0 +1,11 @@
+Object Detection Project Overview
+This project uses the YOLO (You Only Look Once) model to detect and identify objects in real-time video streams, such as from a webcam.
+Key Steps:
+Setup: Install Python and libraries like OpenCV and NumPy. Download the YOLO model files (yolov3.weights, yolov3.cfg, coco.names).
+Load YOLO Model: Use OpenCV to load the YOLO model with its configuration and weights.
+Capture Video: Access the webcam or a video file to capture frames continuously.
+Process Frames: For each frame, prepare it for input to the YOLO model.
+Detect Objects: The model identifies objects in the frame, calculates their positions, and assigns confidence scores.
+Draw Bounding Boxes: If an object's confidence score is above a threshold, draw a bounding box around it and label it (e.g., "person", "car").
+Display Results: Show the processed frame with detections in a window.
+Exit Program: Press 'q' to stop the video feed and close the application.
