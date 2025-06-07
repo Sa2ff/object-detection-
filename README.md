@@ -41,4 +41,4 @@ This is a real-time object detection application using the YOLO (You Only Look O
 git clone https://github.com/Sa2ff/object-detection-.git
 cd object-detection-
 pip install -r requirements.txt
-python detect.py
+python object.py
