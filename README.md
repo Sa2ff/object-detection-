@@ -4,23 +4,12 @@
 </h2>
 
 <div align="center">
-  <img alt="Demo" src="./images/demo.png" width="80%"/>
+  <img alt="Demo" src="./demo.png" width="80%"/>
 </div>
 
 <br/>
 
-<p align="center">
-  <a href="#"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love"></a>
-  <a href="#"><img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="made with python"></a>
-  <a href="#"><img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source"></a>
-</p>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/Sa2ff/object-detection-/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/Sa2ff/object-detection-/issues">Request Feature</a>
-</h3>
 
 ---
 
@@ -49,9 +38,6 @@ You can try the **live demo** here:
 
 👉 [Live Demo Link](https://sa2ff.github.io/object-detection-/)
 
-Or see the image below:
-
-![Demo GIF](./images/demo.gif)
 
 ## 🔧 Installation & Setup
 
