@@ -32,11 +32,7 @@ This is a real-time object detection application using the YOLO (You Only Look O
 - ✅ Easy to customize and extend
 - ✅ Lightweight and fast
 
-## 📸 Demo
 
-You can try the **live demo** here:
-
-👉 [Live Demo Link](https://sa2ff.github.io/object-detection-/)
 
 
 ## 🔧 Installation & Setup
