@@ -1,6 +1,6 @@
 <h2 align="center">
   Object Detection App using YOLO<br/>
-  <a href="https://sa2ff.github.io/object-detection-/" target="_blank">Live Demo</a>
+
 </h2>
 
 <div align="center">
